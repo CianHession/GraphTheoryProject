@@ -14,4 +14,4 @@ Finally, this one is optional, you will need CMDer, cmder is a more fleshed out 
 Once everything is installed, go to the location on your machine you wish to install the files too, I recommened the Desktop as it's easily accessible, create a folder, call it whatever you like. Next open the folder and click this:
 ![image](https://user-images.githubusercontent.com/61824926/183466344-a760ccbd-ddfe-4bc3-8935-334d3e0c8564.png)
 
-Then clear the text _(something like this "D:\Cian\Cmder.exe") _and type 'cmder' then it should open cmder inside this folder and you simply type jupyter notebook, and after a couple of minutes a tab in your brower will open and you can click on either notebook to view the contents and even edit them.
+Then clear the text _(D:\Cian\Desktop\Repo)_ and type 'cmder' then it should open cmder inside this folder and you simply type jupyter notebook, and after a couple of minutes a tab in your brower will open and you can click on either notebook to view the contents and even edit them.
