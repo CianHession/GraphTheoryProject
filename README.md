@@ -9,4 +9,4 @@ The first thing you need to install is Python, I would highly recommend using An
 
 Next you will need to install GIT, as this will allow you to clone this repository to your machine and easily run commands, you can download git from here: https://git-scm.com/downloads
 
-Finally, this one is optional, you will need CMDer, cmder is a more fleshed out command prompt than your standard windows provided version, however like stated, is not a resiquite to run the notebooks. You can find the download of CMDer on SourceForge as it appears the original website is no longer online.
+Finally, this one is optional, you will need CMDer, cmder is a more fleshed out command prompt than your standard windows provided version, however like stated, is not a requisite to run the notebooks. You can find the download of CMDer on SourceForge as it appears the original website is no longer online.
